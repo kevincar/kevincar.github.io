@@ -1,0 +1,12 @@
+# To do list
+- [ ] Main Page
+  - [ ] Portraite
+  - [ ] Links
+    - [ ] Research Gate
+    - [ ] Stack Overflow
+    - [ ] GitHub    
+    - [ ] Twitter
+    - [ ] LinkedIn
+- [ ] CV
+- [ ] Styling
+- [ ] Domain Name

@@ -1,12 +1,15 @@
 # To do list
 - [ ] Main Page
-  - [ ] Portraite
+  - [ ] Portrait
   - [ ] Links
     - [ ] Research Gate
     - [ ] Stack Overflow
     - [ ] GitHub    
     - [ ] Twitter
     - [ ] LinkedIn
+- [ ] Bootstrap
+  - [ ] Navbar
+  - [ ] Footer
 - [ ] CV
 - [ ] Styling
 - [ ] Domain Name

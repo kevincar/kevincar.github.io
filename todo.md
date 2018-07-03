@@ -1,6 +1,6 @@
 # To do list
 - [ ] Main Page
-  - [ ] Portrait
+  - [x] Portrait
   - [ ] Links
     - [ ] Research Gate
     - [ ] Stack Overflow

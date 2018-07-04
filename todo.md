@@ -1,15 +1,17 @@
 # To do list
 - [ ] Main Page
   - [x] Portrait
+  - [ ] Generate a style sheet
+  	- [ ] Style the image
+- [ ] Bootstrap
+  - [ ] Navbar
+  - [ ] Footer
   - [ ] Links
     - [ ] Research Gate
     - [ ] Stack Overflow
     - [ ] GitHub    
     - [ ] Twitter
     - [ ] LinkedIn
-- [ ] Bootstrap
-  - [ ] Navbar
-  - [ ] Footer
 - [ ] CV
 - [ ] Styling
 - [ ] Domain Name

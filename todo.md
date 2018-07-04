@@ -1,8 +1,8 @@
 # To do list
 - [ ] Main Page
   - [x] Portrait
-  - [ ] Generate a style sheet
-  	- [ ] Style the image
+  - [x] Generate a style sheet
+  	- [x] Style the image
 - [ ] Bootstrap
   - [ ] Navbar
   - [ ] Footer

@@ -4,7 +4,8 @@
   - [x] Generate a style sheet
   	- [x] Style the image
 - [ ] Bootstrap
-  - [ ] Navbar
+  - [x] Navbar
+  	- [ ] CV
   - [ ] Footer
   - [ ] Links
     - [ ] Research Gate

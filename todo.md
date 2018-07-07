@@ -4,8 +4,14 @@
   - [x] Generate a style sheet
   	- [x] Style the image
 - [ ] Bootstrap
+  - [ ] Header
+    - [ ] Find a good font
+	- [ ] Check if bootstrap has some better formatting, if not, work your own
+	  stylesheet
   - [x] Navbar
-  	- [ ] CV
+  	- [x] CV
+	- [ ] Better font
+	- [ ] Better user-interface on the nav
   - [ ] Footer
   - [ ] Links
     - [ ] Research Gate

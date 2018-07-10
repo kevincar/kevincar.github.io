@@ -3,9 +3,11 @@
   - [x] Portrait
   - [x] Generate a style sheet
   	- [x] Style the image
+  - [ ] Resize Photo (Check Bootstrap for responsive sizes)
+  - [ ] Research other layouts to get other ideas
 - [ ] Bootstrap
   - [ ] Header
-    - [ ] Find a good font
+    - [x] Find a good font
 	- [ ] Check if bootstrap has some better formatting, if not, work your own
 	  stylesheet
   - [x] Navbar

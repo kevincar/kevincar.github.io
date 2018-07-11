@@ -3,7 +3,7 @@
   - [x] Portrait
   - [x] Generate a style sheet
   	- [x] Style the image
-  - [ ] Resize Photo (Check Bootstrap for responsive sizes)
+  - [x] Resize Photo (Check Bootstrap for responsive sizes)
   - [ ] Research other layouts to get other ideas
 - [ ] Bootstrap
   - [ ] Header

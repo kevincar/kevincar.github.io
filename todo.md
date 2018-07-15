@@ -8,12 +8,14 @@
 - [ ] Bootstrap
   - [ ] Header
     - [x] Find a good font
-	- [ ] Check if bootstrap has some better formatting, if not, work your own
+	- [x] Check if bootstrap has some better formatting, if not, work your own
 	  stylesheet
   - [x] Navbar
   	- [x] CV
-	- [ ] Better font
+	- [x] Better font
 	- [ ] Better user-interface on the nav
+		- [ ] Button rather than text
+		- [ ] Animation? Square brackets?
   - [ ] Footer
   - [ ] Links
     - [ ] Research Gate

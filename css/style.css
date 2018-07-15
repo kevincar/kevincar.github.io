@@ -1,0 +1,14 @@
+@font-face {
+	font-family: monokai;
+	src: url('./fonts/monokai.ttf');
+}
+
+@font-face {
+	font-family: inconsolata;
+	src: url('./fonts/inconsolata.otf');
+}
+
+body {
+	font-family: inconsolata;
+	letter-spacing: 2px;
+}

@@ -6,16 +6,13 @@
   - [x] Resize Photo (Check Bootstrap for responsive sizes)
   - [x] Research other layouts to get other ideas
 - [ ] Bootstrap
-  - [ ] Header
+  - [x] Header
     - [x] Find a good font
 	- [x] Check if bootstrap has some better formatting, if not, work your own
 	  stylesheet
   - [x] Navbar
   	- [x] CV
 	- [x] Better font
-	- [ ] Better user-interface on the nav
-		- [ ] Button rather than text
-		- [ ] Animation? Square brackets?
   - [ ] Footer
   - [ ] Links
     - [ ] Research Gate

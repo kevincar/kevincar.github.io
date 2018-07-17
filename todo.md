@@ -1,5 +1,5 @@
 # To do list
-- [ ] Main Page
+- [x] Main Page
   - [x] Portrait
   - [x] Generate a style sheet
   	- [x] Style the image
@@ -20,7 +20,7 @@
     - [ ] GitHub    
     - [ ] Twitter
     - [ ] LinkedIn
-- [ ] CV
-- [ ] Styling
+- [x] CV
+- [x] Styling
 - [ ] Domain Name
 - [ ] Take more pictures for more content to mock up something like [this](https://www.wix.com/website-template/view/html/1893/?siteId=31c9cc64-4739-437a-bf99-8a87fae88840&metaSiteId=7df46866-884d-4ed2-a9ea-b6f80df2ebaf&originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fportfolio-cv)

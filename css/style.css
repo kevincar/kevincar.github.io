@@ -8,8 +8,13 @@
 	src: url('./fonts/inconsolata.otf');
 }
 
+@font-face {
+	font-family: Garamond;
+	src: url('./fonts/Garamond.otf');
+}
+
 body {
-	font-family: inconsolata;
+	font-family: Garamond;
 	letter-spacing: 2px;
 }
 

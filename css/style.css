@@ -21,3 +21,7 @@ body {
 .top-spacing {
 	margin-top: 25px;
 }
+
+li.list-inline-item:not(:first-child) {
+	margin-left: 0.5rem;
+}

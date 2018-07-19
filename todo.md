@@ -15,6 +15,7 @@
 	- [x] Better font
   - [ ] Footer
   - [ ] Links
+    - [x] icons
     - [ ] Research Gate
     - [ ] Stack Overflow
     - [ ] GitHub    

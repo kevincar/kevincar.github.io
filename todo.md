@@ -16,7 +16,7 @@
   - [ ] Footer
   - [ ] Links
     - [x] icons
-    - [ ] Research Gate
+    - [x] Research Gate
     - [ ] Stack Overflow
     - [ ] GitHub    
     - [ ] Twitter

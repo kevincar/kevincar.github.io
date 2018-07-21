@@ -18,7 +18,7 @@
     - [x] icons
     - [x] Research Gate
     - [x] Stack Overflow
-    - [ ] GitHub    
+    - [x] GitHub    
     - [ ] Twitter
     - [ ] LinkedIn
 - [x] CV

@@ -17,7 +17,7 @@
   - [ ] Links
     - [x] icons
     - [x] Research Gate
-    - [ ] Stack Overflow
+    - [x] Stack Overflow
     - [ ] GitHub    
     - [ ] Twitter
     - [ ] LinkedIn

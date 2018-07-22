@@ -19,7 +19,7 @@
     - [x] Research Gate
     - [x] Stack Overflow
     - [x] GitHub    
-    - [ ] Twitter
+    - [x] Twitter
     - [ ] LinkedIn
 - [x] CV
 - [x] Styling

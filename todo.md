@@ -13,14 +13,14 @@
   - [x] Navbar
   	- [x] CV
 	- [x] Better font
-  - [ ] Footer
-  - [ ] Links
+  - [x] Footer
+  - [x] Links
     - [x] icons
     - [x] Research Gate
     - [x] Stack Overflow
     - [x] GitHub    
     - [x] Twitter
-    - [ ] LinkedIn
+    - [x] LinkedIn
 - [x] CV
 - [x] Styling
 - [ ] Ensure it looks good on mobile devices

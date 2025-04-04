@@ -5,7 +5,7 @@
   	- [x] Style the image
   - [x] Resize Photo (Check Bootstrap for responsive sizes)
   - [x] Research other layouts to get other ideas
-- [ ] Bootstrap
+- [x] Bootstrap
   - [x] Header
     - [x] Find a good font
 	- [x] Check if bootstrap has some better formatting, if not, work your own
